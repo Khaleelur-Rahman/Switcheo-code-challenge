@@ -26,7 +26,7 @@ func sum_to_n_b(n int) int {
 }
 
 // Solution C
-// Time complexity : 0(1)
+// Time complexity : 0(n)
 // Space complexity : 0(1)
 func sum_to_n_c(n int) int {
     if n <= 0 {
